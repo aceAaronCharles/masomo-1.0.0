@@ -144,6 +144,13 @@
     margin-left: 8px;
 }
 
+.navbar-brand img {
+    height: auto;
+    width: auto;
+    max-width: 20%;
+    max-height: 20%;
+}
+
 @media (min-width: 1200px) {
     .navbar .nav-item .dropdown-menu {
         display: block;
